@@ -1,0 +1,8 @@
+Package: malang-phisher
+Version: latest
+Installed-Size: 9400
+Architecture: all
+Maintainer: @Mr-Hacker
+Depends: php, wget, git, curl, resolv-conf, proot
+Homepage: https://github.com/malangyar/malang-phisher.git
+Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
